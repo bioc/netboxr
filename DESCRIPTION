@@ -1,7 +1,7 @@
 Type: Package
 Package: netboxr
 Title: netboxr
-Version: 1.11.0
+Version: 1.11.1
 Date: 2022-01-19
 Author: Eric Minwei Liu [aut,cre], Augustin Luna [aut], Ethan Cerami [aut], Chris Sander [aut]
 Maintainer: Eirc Minwei Liu <emliu.research@gmail.com>
@@ -44,3 +44,4 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 biocViews: Software,Network,Pathways,GraphAndNetwork,Reactome, 
            SystemsBiology, GeneSetEnrichment, NetworkEnrichment, KEGG
+PackageStatus: Deprecated
